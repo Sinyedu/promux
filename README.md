@@ -33,3 +33,19 @@ Run:
 ```bash
 promux
 ```
+
+---
+
+# Contributing
+
+Thank you for the interest in Promux!
+
+Promux is currently in very early development and is primarily being built by the core maintainers while the architecture and direction are still evolving.
+
+At this stage, we are not actively accepting external pull requests or code contributions.
+
+However, feedback, ideas, discussions, and issue reports are always appreciated.
+
+Feel free to fork the project and experiment with your own ideas.
+
+---
