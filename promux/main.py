@@ -1,3 +1,9 @@
-from promux.main import main
+from promux.config import setup_config
 
-main()
+
+def main() -> None:
+    setup_config()
+
+
+if __name__ == "__main__":
+    main()
