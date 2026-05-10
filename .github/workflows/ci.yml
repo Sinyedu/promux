@@ -1,0 +1,23 @@
+name: CI
+
+on:
+  pull_request:
+    branches:
+      - main
+      - development
+
+  push:
+    branches:
+      - development
+
+jobs:
+  setup-check:
+    name: Repository setup check
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: CI placeholder
+        run: echo "Promux CI is configured correctly 🚀"
