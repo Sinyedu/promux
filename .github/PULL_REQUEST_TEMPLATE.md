@@ -6,6 +6,14 @@ Provide a short and clear summary of the changes introduced in this pull request
 
 ---
 
+## Linked Issues
+
+Closes #
+
+Related to #
+
+---
+
 ## Changes
 
 -
